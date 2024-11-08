@@ -1,9 +1,9 @@
 import Card from "../components/Elements/Card";
 import MainLayout from "../components/Layouts/MainLayout";
 
-const Goals = () => {
+const goals = () => {
   return (
-    <MainLayout type="Goals">
+    <MainLayout type="goals">
       {/* top content start*/}
       <div className="mb-8 sm:flex sm:gap-6">
         <div className="sm:w-1/3">
