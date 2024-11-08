@@ -34,4 +34,4 @@ const goals = () => {
   );
 };
 
-export default Goals;
+export default goals;
