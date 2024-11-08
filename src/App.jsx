@@ -5,6 +5,7 @@ import ErrorRoute from "./pages/errorRoute";
 import ForgotPassword from "./pages/forgotPassword";
 import DashboardPage from "./pages/dashboard";
 import BalancePage from "./pages/balance";
+import Goals from './pages/Goals';
 
 
 
