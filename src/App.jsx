@@ -34,8 +34,8 @@ const App = () => {
       element: <BalancePage/>,
     }
     {
-      path: "/Goals",
-      element: <Goals/>
+      path: "/goals",
+      element: <goals/>
     }
           
   ]);
