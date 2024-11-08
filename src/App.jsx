@@ -36,6 +36,7 @@ const App = () => {
     {
       path: "/Goals",
       element: <Goals/>
+    }
           
   ]);
 
