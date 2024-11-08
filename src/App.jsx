@@ -33,6 +33,10 @@ const App = () => {
       path: "/balance",
       element: <BalancePage/>,
     }
+    {
+      path: "/Goals",
+      element: <Goals/>
+          
   ]);
 
   return (
